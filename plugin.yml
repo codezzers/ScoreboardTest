@@ -1,0 +1,5 @@
+name: ScoreboardTest
+main: codezzers\Scoreboard\Main
+api: 3.12.0
+version: 1.0
+author: AlperDursun
